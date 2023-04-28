@@ -58,7 +58,7 @@ For those familiar with the project, please see the [help-wanted GitHub issues](
 
 ## Don't want to code?
 
-[Join our Slack channel](https://airtable.com/shrsdRcYVzp019U22) (chatroom) to discuss ideas and meet the community!
+[Join our Slack channel](https://airtable.com/shrsdRcYVzp019U22) (chatroom) to discuss ideas and meet the community!!
 
 A. We have ongoing conversations about what sort of data we should collect and how it should be collected. Help us make these decisions by commenting on [issues with a non-coding label](https://github.com/City-Bureau/city-scrapers/issues?q=is%3Aissue+is%3Aopen+label%3Anon-coding).
 
