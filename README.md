@@ -4,7 +4,8 @@
 
 ## Who are the City Bureau Documenters, and why do they want to scrape websites?
 
-Public meetings are important spaces for democracy where any resident can participate and hold public figures accountable. [City Bureau's Documenters program](https://www.citybureau.org/documenters) pays community members an hourly wage to inform and engage their communities by attending and documenting public meetings.
+Public meetings are important spaces for democracy where any resident can participate and hold public figures accountable. [City Bureau's Documenters
+ program](https://www.citybureau.org/documenters) pays community members an hourly wage to inform and engage their communities by attending and documenting public meetings.
 
 How does the Documenters program know when meetings are happening? It isn’t easy! These events are spread across dozens of websites, rarely in useful data formats.
 
